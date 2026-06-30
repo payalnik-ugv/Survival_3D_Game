@@ -15,3 +15,9 @@ I have also displayed the health and stamina of the player during the game.
 You can see the demo as below.
 
 ![GIF DEMO OF GAME](https://github.com/ashutosh1919/Survival_3D_Game/blob/master/survival.gif)
+
+![Screenshot-0](Images/screenshot_00.jpeg)
+
+![Screenshot-1](Images/screenshot_01.jpeg)
+
+![Screenshot-2](Images/screenshot_02.jpeg)
