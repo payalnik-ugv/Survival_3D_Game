@@ -5,6 +5,7 @@
 
 - **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
 - **Microsoft Visual Studio**: 2022 (_Community_)
+- **Program Language**: C#
 
 #### Процес игры
 
