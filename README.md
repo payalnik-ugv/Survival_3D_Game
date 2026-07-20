@@ -20,9 +20,9 @@
 6. Лук (Bow-Arrow)
 
 Я также отобразил здоровье и выносливость игрока во время игры.
-Вы можете посмотреть демоверсию ниже.
 
-![GIF DEMO OF GAME](https://github.com/ashutosh1919/Survival_3D_Game/blob/master/survival.gif)
+Вы можете посмотреть демоверсию
+![GIF DEMO OF GAME](survival.gif)
 
 ![Screenshot-0](Images/screenshot_00.jpeg)
 
