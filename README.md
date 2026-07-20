@@ -1,18 +1,19 @@
-This is the 3D Survival Game built in Unity3D.
+# 3D-игра на выживание
+Это 3D-игра на выживание с открытым миром, созданная на движке Unity-3D с видом от первого лица в стиле Low Poly.
 
-I have created small ground consisting of Grass, Trees and Rocks.
-There are two types of enemies : Monsters and Boars.
+Я создал небольшую площадку, состоящую из травы, деревьев и камней.
+Здесь два типа врагов (enemies): монстры и кабаны.
 
-Player has 6 different weapons to kill enemies.
-(1) Axe
-(2) Revolver
-(3) Shotgun
-(4) Rifle
-(5) Spear
-(6) Bow-Arrow
+У игрока есть 6-различных видов оружия для уничтожения врагов:
+1. Топор (Axe)
+2. Револьвер (Revolver)
+3. Дробовик (Shotgun)
+4. Винтовка (Rifle)
+5. Копьё (Spear)
+6. Лук (Bow-Arrow)
 
-I have also displayed the health and stamina of the player during the game.
-You can see the demo as below.
+Я также отобразил здоровье и выносливость игрока во время игры.
+Вы можете посмотреть демоверсию ниже.
 
 ![GIF DEMO OF GAME](https://github.com/ashutosh1919/Survival_3D_Game/blob/master/survival.gif)
 
