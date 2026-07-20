@@ -21,7 +21,6 @@
 
 Я также отобразил здоровье и выносливость игрока во время игры.
 
-Вы можете посмотреть демоверсию
 ![GIF DEMO OF GAME](survival.gif)
 
 ![Screenshot-0](Images/screenshot_00.jpeg)
